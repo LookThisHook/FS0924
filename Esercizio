@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Keanu Reaves</title>
+</head>
+<body>
+    <!--inizio-pagina-->
+    <div id="Inizio-pagina">
+        <a href="#fine-pagina">Vai in fondo alla pagina</a>
+    <h1>Keanu Charles Reeves</h1>
+    <h2>KeanuCharlesReeves@gmail.com</h2>
+    <img src="https://www.radiomontecarlo.net/resizer/1200/720/true/2020-09-01_10_39_24_gettyimages-104810390-1592390994235-jpg-1598968507220.jpg--keanu_reeves__7_curiosita_sull_attore.jpg" alt="Foto di Keanu">
+    <h4>È famoso per aver interpretato Neo, nella tetralogia di fantascienza Matrix, e John Wick, nella omonima saga action diretta da Chad Stahelski. Altri suoi ruoli notevoli includono il gigolò Scott Favor nel dramma Belli e dannati, l'agente di polizia Jack Traven in Speed, il principe Siddhārtha in Piccolo Buddha, l'avvocato Kevin Lomax nel thriller soprannaturale L'avvocato del diavolo, l'alieno Klaatu in Ultimatum alla Terra, l'agente federale Johnny Utah in Point Break - Punto di rottura, John Constantine nell'omonimo film e Johnny Silverhand nel videogioco Cyberpunk 2077. È stato spesso annoverato tra gli attori più sexy del cinema mondiale</h3>
+    <h4>Keanu Reeves è nato il 2 settembre 1964 a Beirut, in Libano, figlio di Samuel Nowlin Reeves Jr., un geologo statunitense di origini hawaiiane, cinesi e portoghesi e di Patricia Taylor, una ballerina e costumista inglese originaria dell'Essex. Patricia faceva la ballerina di intrattenimento nella capitale libanese quando incontrò Samuel, il quale lasciò sua moglie e, una volta appresa della gravidanza della madre di Keanu, i due si sposarono.Secondo quanto da lui affermato in un'intervista per il New York Times, Reeves vide per l'ultima volta suo padre sull'isola di Kauai quando aveva tredici anni.
+        <h4>Nel 1966 la madre si separò dal marito e si trasferì con i figli a Toronto, in Canada, dove lavorò come costumista per Alice Cooper, Dolly Parton e altri. Keanu ha una sorella, Kim, nata in Australia nel 1966, e due sorellastre. Keanu è un giocatore di hockey su ghiaccio; alle superiori, era il portiere ufficiale della squadra del college De La Salle di Toronto, Canada. Fu eletto miglior giocatore della scuola, cosa che gli aprì la strada per una carriera da professionista nell'hockey. Al momento della scelta decisiva, optò però per le luci della ribalta, complice un infortunio alla mano che ne pregiudicò la carriera sportiva. Durante gli anni delle superiori ha cambiato quattro scuole e nessuno si era accorto che le sue difficoltà scolastiche, in realtà, erano dovute a un disturbo di lettura: l'attore infatti è dislessico. Per questo motivo Reeves decise di abbandonare gli studi a 17 anni, senza conseguire mai il diploma di scuola superiore. Fino alla maggiore età visse a Toronto con la madre, dove frequentò dei corsi di recitazione. Per mantenersi, lavorò come affilatore di pattini da ghiaccio, boscaiolo e per un anno fu anche dipendente di un negozio di pasta.
+
+        </h4>
+
+    </h4>
+
+    <p><a href="javascript:void(0)">GitHub</a></p>
+</div>
+<!--fine-pagina-->
+<div id="fine-pagina">
+    <h2>Le mie Competenze</h2>
+    <ul>
+        <li>Attore</li>
+        <li>Regista</li>
+        <Li>Doppiatore</Li>
+
+    </ul>
+
+    <h2>Competenze da Acquisire</h2>
+    <ol>
+    <li>Moda</li>
+    <li>Meditazione</li>
+    <li>Chitarra</li>
+</ol>
+
+<footer>
+    <p>Copyright &copy; KeanuCharlesReeves 2024</p>
+</footer>
+<a href="#Inizio-pagina">Torna all'inizio della pagina</a>
+
+
+
+</div>
+
+
+
+
+
+</body>
+</html>
